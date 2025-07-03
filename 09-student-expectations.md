@@ -1,2 +1,2 @@
 # Vacation Policy
-- Our organization provides all students with 20 business days of vacation per year.
+- Our organization provides all students with 10 business days of vacation per year.
