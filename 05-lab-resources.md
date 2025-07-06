@@ -1,2 +1,2 @@
 # Computational Resources
-- Our team has two GPU machines available in the lab for computational tasks.
+- Our team has two GPU machines dedicated for AI tasks.
