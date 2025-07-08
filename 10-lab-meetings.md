@@ -1,0 +1,2 @@
+# Regular Lab Meetings and Writing Studios
+- Our lab holds a regular lab meeting every Friday at 4pm, alternating with a writing studio. During lab meetings, individuals take turns reporting on their progress since the last meeting, while the writing studio focuses on writing and peer-review feedback.
